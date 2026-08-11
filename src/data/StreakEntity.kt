@@ -6,3 +6,5 @@ data class StreakEntity(
     val currentCount: Int,
     val lastCheckIn: Long
 )
+
+// DB version 2, schema exported to /schemas
